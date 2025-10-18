@@ -1,6 +1,8 @@
 
 
 # 🎯 React Deep Dive – Essentials & Advanced Concepts  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://eshrakrahman.netlify.app/)
+
 
 This repository documents my continued journey learning **React**, moving from fundamentals to more advanced concepts.  
 It begins by improving a demo application from a previous section and then evolves into a fully interactive **Tic-Tac-Toe game** built with React.  
