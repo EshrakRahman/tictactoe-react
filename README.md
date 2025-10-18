@@ -1,6 +1,5 @@
 
 
-````markdown
 # 🎯 React Deep Dive – Essentials & Advanced Concepts  
 
 This repository documents my continued journey learning **React**, moving from fundamentals to more advanced concepts.  
@@ -87,6 +86,4 @@ It’s a small but meaningful step toward writing scalable, production-quality R
 * Explore **custom hooks** and **reusable UI components**
 * Practice deploying React apps using **Vercel** or **Netlify**
 
-```
 
-```
